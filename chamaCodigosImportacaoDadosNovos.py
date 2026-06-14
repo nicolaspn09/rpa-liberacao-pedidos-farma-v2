@@ -1,0 +1,6 @@
+from acessaDriveCriaDiretorios import acessa_drive_cria_diretorios
+from acessaDriveImportaDados import analisa_arquivos_drive
+
+
+acessa_drive_cria_diretorios()
+analisa_arquivos_drive()
